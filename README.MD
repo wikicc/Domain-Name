@@ -1,6 +1,6 @@
 # WIKICC最新域名发布
 
-### [https://wikicc.net][1]
+### WIKICC目前最新域名：[https://wikicc.net][1]
 
 
   [1]: https://wikicc.net
