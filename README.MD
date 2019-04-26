@@ -5,20 +5,7 @@
 
   [1]: https://wikicc.net
 
-MTProxy 一键搭建管理脚本。
-MTProxy 是专门用于 Telegram 的代理软件。目前 Telegram 内部直接支持此代理软件。安装完成后生成的 `tg://` 链接可在 Telegram 内随意分享使用。代理效果非常出色。
+#### 由于“种种原因”，WIKICC域名无法再国内备案，根据中国特色，未备案的域名加上WIKICC的网站性质，域名存在被污染的可能性【详见“[DNS污染（域名污染）][1]”】。
+#### 当WIKICC域名被污染后，通过原来的域名将无法访问WIKICC网站，我们会更换新的域名，届时，你可以通过此页面获得WIKICC的最新域名
 
-# 截图
-![1.png](1.png)
-![2.png](2.png)
-
-# 安装
-```bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/MTProxy-Bash/master/install.sh && bash install.sh
-```
-
-# 卸载
-```bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/MTProxy-Bash/master/uninstall.sh && bash uninstall.sh
-```
-
+  [2]: https://baike.baidu.com/item/DNS污染
